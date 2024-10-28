@@ -1,0 +1,2 @@
+api = 'myapi'
+secret = 'mysecret'
